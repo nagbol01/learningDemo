@@ -1,5 +1,7 @@
+package old;
+
 /**
- * Class to represent a Door with name, state, and area.
+ * Class to represent a old.Door with name, state, and area.
  */
 public class Door{
 

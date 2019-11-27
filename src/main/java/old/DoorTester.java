@@ -1,9 +1,11 @@
+package old;
+
 /**
- * A class to test the Door class.
+ * A class to test the old.Door class.
  */
 public class DoorTester {
   /**
-   * Tests the methods of the Door class
+   * Tests the methods of the old.Door class
    * @param args not used
    */
   public static void main(String[] args) {
